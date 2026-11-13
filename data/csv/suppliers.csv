@@ -1,0 +1,8 @@
+supplier_id,name,region,cold_chain_capable,contact_email
+S-01,Meridian Pharma Distributors (synthetic),West,0,ops@s-01.example.invalid
+S-02,Apex Lifesciences Supply (synthetic),Central,0,ops@s-02.example.invalid
+S-03,Nova Generic Healthcare (synthetic),Central,0,ops@s-03.example.invalid
+S-04,Pinnacle Medical Traders (synthetic),South,0,ops@s-04.example.invalid
+S-05,BlueChain Cold Logistics (synthetic),West,1,ops@s-05.example.invalid
+S-06,Sahyadri Pharma Wholesale (synthetic),West,0,ops@s-06.example.invalid
+S-07,Ganga Biologicals (synthetic),North,1,ops@s-07.example.invalid

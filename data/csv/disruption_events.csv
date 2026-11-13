@@ -1,0 +1,4 @@
+event_type,entity_id,magnitude,start_date,end_date,detected_date,description,simulated,created_by,active
+supplier_delay,S-03,5.0,2026-09-14,2026-09-21,2026-09-16,SIMULATED historical supplier delay,1,generator,0
+demand_surge,M10,30.0,2026-09-29,2026-10-06,2026-09-30,SIMULATED demand surge (ORS),1,generator,0
+transport_disruption,ALL,1.4,2026-10-14,2026-10-19,2026-10-15,SIMULATED transport disruption,1,generator,0

@@ -1,0 +1,21 @@
+medicine_id,name,form,category,unit_cost,criticality,shelf_life_days,cold_chain
+M01,Paracetamol 500mg,Tablet,Analgesic,1.2,1,730,0
+M02,Amoxicillin 500mg,Capsule,Antibiotic,6.5,2,730,0
+M03,Azithromycin 500mg,Tablet,Antibiotic,18.0,2,730,0
+M04,Ceftriaxone 1g,Injection,Antibiotic,48.0,3,730,0
+M05,Metformin 500mg,Tablet,Antidiabetic,1.8,2,1095,0
+M06,Amlodipine 5mg,Tablet,Cardiovascular,1.5,2,1095,0
+M07,Atorvastatin 10mg,Tablet,Cardiovascular,4.0,1,1095,0
+M08,Insulin Glargine 100IU/ml,Injection,Antidiabetic,520.0,3,540,1
+M09,Oxytocin 10IU,Injection,Maternal health,35.0,3,540,1
+M10,ORS Sachet,Sachet,Rehydration,9.0,2,730,0
+M11,Normal Saline 0.9% 500ml,IV fluid,IV fluid,28.0,3,1095,0
+M12,Ringer Lactate 500ml,IV fluid,IV fluid,32.0,3,1095,0
+M13,Salbutamol Inhaler 100mcg,Inhaler,Respiratory,95.0,3,730,0
+M14,Heparin 5000IU,Injection,Anticoagulant,140.0,3,730,0
+M15,Epinephrine 1mg/ml,Injection,Emergency,60.0,3,540,0
+M16,Furosemide 40mg,Tablet,Diuretic,2.2,2,1095,0
+M17,Ondansetron 4mg,Tablet,Antiemetic,5.0,1,730,0
+M18,Omeprazole 20mg,Capsule,Gastro,2.8,1,730,0
+M19,Tetanus Toxoid Vaccine,Vaccine,Vaccine,38.0,3,730,1
+M20,Dexamethasone 4mg,Injection,Corticosteroid,22.0,2,730,0
